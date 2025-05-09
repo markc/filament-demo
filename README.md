@@ -1,4 +1,4 @@
-# Filament Demo App
+# Filament Demo App (Laravel 12 clone)
 
 A demo application to illustrate how Filament Admin works.
 
@@ -100,5 +100,3 @@ You're ready to go! Visit the url in your browser, and login with:
 #### MorphToMany
 - BrandResource\RelationManagers\AddressRelationManager
 - CustomerResource\RelationManagers\AddressRelationManager
-# filament-demo
-# filament-demo
